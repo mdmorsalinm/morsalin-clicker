@@ -47,4 +47,18 @@ body {
   #save-btn {
     background: #660063;
   }
+
+  #leave {
+    background: rgb(70, 32, 114);
+  }
   
+  .box {
+    background-color: rgb(180, 187, 197);
+    width: 30%;
+    min-width: 300px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 10px 10px 10px 10px;
+    border: 2px solid black;
+
+  }
